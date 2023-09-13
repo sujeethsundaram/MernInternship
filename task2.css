@@ -1,0 +1,67 @@
+h3{
+    background-image: url(arr.png);
+    border-color: white;
+    display: flex;
+    width:300px;
+    background-size:cover;
+    color: white;
+    padding-left: 10px;
+    size-adjust: auto;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+.pst{
+    position: fixed;
+    top: 42px;
+    left: 650px;
+}
+.vert{
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+    width: 150px;
+    border: 1px solid black;
+}
+.v{
+    background-color: lightblue;
+    display: block;
+}
+.v a{
+    display: block;
+    color: blue;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.v a:hover{
+    background-color: rgb(255, 166, 0);
+    color: white;
+}
+.horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d5d5d5;
+}
+.h{
+    float: left;
+    border: 1px solid blue;
+  }
+.h a{
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.h a:hover {
+    background-color: #727272;
+    color: white;
+  }
+.container{
+    border: 1px solid;
+    padding-top: 10px;
+    padding-left: 7px;
+    padding-bottom: 10px;
+}

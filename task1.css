@@ -1,0 +1,60 @@
+.parent{
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    background: #7bc4c6f4;
+    width: 900px;
+    height: 150px;
+    border-width: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.rela{
+    border-spacing: 20px;
+    padding-left: 300px;
+    padding-top: 20px;
+}
+.box{
+    border-radius: 15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+.sq2{
+    border-radius: 7px;
+    border-color: #6ec007 ;
+    border-style: solid;
+    padding: 25px;
+    width: 30px;
+    border-width: 3px;
+}
+.sq1{
+    border-radius: 3px;
+    border-color: #6ec007 ;
+    border-style: solid;
+    padding: 25px;
+    width: 30px;
+    border-width: 3px;
+}
+.sq3{
+    border-radius: 15px;
+    border-color: #6ec007 ;
+    border-style: solid;
+    padding: 25px;
+    width: 30px;
+    border-width: 3px;
+}
+.ovl{
+    border-radius: 50%;
+    border-color: #6ec007 ;
+    border-style: solid;
+    padding: 25px;
+    width: 30px;
+    border-width: 3px;
+}
+.dia {
+    border-radius: 3px 15px 3px;
+    border-color: #6ec007 ;
+    border-style: solid;
+    border-width: 3px;
+  }
